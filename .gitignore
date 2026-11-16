@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Internal frameworks & metadata
+.agents/
+.cursor/
+.superpowers/
+genOS/
+docs/
+CLAUDE.md
+instruction.md
+HIGHLIGHTED FILES TO TRANSLATE TO PYTHON FILES.png
+generate_screenshots.py
